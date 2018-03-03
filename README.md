@@ -187,6 +187,5 @@ See also
 
 >Chewy is the best second pilot ever!
 
-[![Downloads](https://img.shields.io/pypi/dm/chewy.svg
-[![Downloads](https://img.shields.io/pypi/v/chewy.svg
+[![Version](https://img.shields.io/pypi/v/chewy.svg)](https://pypi.python.org/pypi/chewy)
 [![Build Status](https://api.travis-ci.org/mutanabbi/chewy.png?branch=master)](https://travis-ci.org/mutanabbi/chewy)
